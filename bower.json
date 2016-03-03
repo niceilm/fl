@@ -1,6 +1,6 @@
 {
   "name": "fl",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "authors": [
     "niceilm@naver.com"
   ],
@@ -17,6 +17,9 @@
     "node_modules",
     "bower_components",
     "spec"
+  ],
+  "main": [
+    "./lib/fl.lazy.js"
   ],
   "dependencies": {
     "angular": "~1.4.0",
